@@ -1,0 +1,8 @@
+{
+  "name": "Remix The Mutoporaz Farms",
+  "description": "Comprehensive farm management system for The Mutoporaz Farms livestock operations including pigs, hens, and ostriches with breeding, health, feed tracking, and role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
